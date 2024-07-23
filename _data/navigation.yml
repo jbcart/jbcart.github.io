@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Interests"
-    url: "interests/"
+  #  - title: "Interests"
+  #    url: "interests/"
   - title: "CV"
     url: "assets/docs/cv.pdf"
   - title: "Publications"
