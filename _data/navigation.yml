@@ -5,7 +5,9 @@ main:
   - title: "CV"
     url: "assets/docs/cv.pdf"
   - title: "Publications"
-    url: "https://scholar.google.com/citations?user=NRfcLo0AAAAJ&hl=en" 
+    url: "https://scholar.google.com/citations?user=NRfcLo0AAAAJ&hl=en"
+  - title: "Software"
+    url: /software/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
