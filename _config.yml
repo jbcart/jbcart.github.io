@@ -21,7 +21,7 @@ title                    : "Brandon Carter"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "J. Brandon Carter"
-description              : "Brandon Carter's personal website."
+description              : "Personal website of J. Brandon Carter, statistician and data scientist working on consumer choice modeling and optimization."
 url                      : "https://jbcart.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,54 +115,24 @@ analytics:
 author:
   name             : "J. Brandon Carter"
   avatar           : "/assets/images/IMG_0744.jpeg"
-  bio              : "Social Data Scientist and Statistician"
-  affiliation      : "University of Texas at Austin" 
-  location         : "Austin, TX"
-  email            :
+  bio              : "Data Scientist, Hershey | Statistics & Optimization"
+  affiliation      : "The Hershey Company"
+  location         : "Dallas, TX"
+  email            : "carterj4@icloud.com"
   links:
     - label: "ORCiD"
       icon: "fas fa-brands fa-orcid"
       url: "https://orcid.org/0000-0003-1687-0564"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:carterjb@utexas.edu"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:carterj4@icloud.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/jbcart"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
 # Reading Files
