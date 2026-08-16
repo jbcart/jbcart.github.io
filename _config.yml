@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "J. Brandon Carter"
   avatar           : "/assets/images/IMG_0744.jpeg"
-  bio              : "Data Scientist, Hershey | Statistics & Optimization"
+  bio              : "Data Scientist and Statistician"
   affiliation      : "The Hershey Company"
   location         : "Dallas, TX"
   email            : "carterj4@icloud.com"
@@ -123,9 +123,6 @@ author:
     - label: "ORCiD"
       icon: "fas fa-brands fa-orcid"
       url: "https://orcid.org/0000-0003-1687-0564"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:carterj4@icloud.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jbcart"
