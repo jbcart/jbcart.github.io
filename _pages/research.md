@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
+author_profile: false
 ---
 
 **Spatial models for discrete data.** My core methodological interest is

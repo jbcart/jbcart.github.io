@@ -1,6 +1,7 @@
 ---
 permalink: /software/
 title: Software
+author_profile: false
 ---
 
 ## R Packages

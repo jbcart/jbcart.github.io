@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
+author_profile: false
 ---
 
 The best way to reach me is by email: [carterj4@icloud.com](mailto:carterj4@icloud.com)

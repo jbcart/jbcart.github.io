@@ -5,5 +5,89 @@ search: false
 
 @charset "utf-8";
 
+// Site accent: teal / dark teal. Set before the theme partials load so
+// these override the theme's `!default` values instead of fighting them.
+$primary-color: #0b4a50; // dark teal — masthead nav, buttons, focus/active states
+$info-color: #0e7c86;    // teal — feeds body link color
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Site-specific overrides
+
+// Bigger masthead logo mark than the theme default (2rem).
+// Explicit width/height (not max-height) — Safari doesn't reliably scale an
+// SVG <img> as a flex child using max-height alone, and the global
+// `img { max-width: 100% }` reset caps it to the logo's own intrinsic 16px
+// width otherwise.
+.site-logo img {
+  max-width: none;
+  width: 3rem;
+  height: 3rem;
+}
+// "Updates" feed (used both as a short preview on the home page and as the
+// full timeline on /updates/)
+.updates-feed {
+  margin: 1rem 0 1.5rem;
+  padding-inline-start: 1.1rem;
+  border-inline-start: 2px solid mix(#fff, $info-color, 70%);
+
+  &--scroll {
+    max-height: 15rem;
+    overflow-y: auto;
+  }
+}
+
+.updates-feed__more {
+  font-size: $type-size-6;
+}
+
+.updates-feed__item {
+  position: relative;
+  display: block;
+  padding-bottom: 1.1rem;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset-inline-start: -1.45rem;
+    top: 0.3rem;
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 50%;
+    background-color: $info-color;
+  }
+
+  &:last-child {
+    padding-bottom: 0.1rem;
+  }
+}
+
+.updates-feed__date {
+  display: block;
+  font-size: $type-size-7;
+  font-weight: bold;
+  color: $info-color;
+  margin-bottom: 0.15rem;
+}
+
+.updates-feed__text {
+  display: block;
+  font-size: $type-size-6;
+  color: $text-color;
+}
+
+// Pages without the author sidebar (author_profile: false) should use the
+// full content width instead of the theme's default reserved sidebar gap.
+.page--full {
+  @include breakpoint($large) {
+    float: none;
+    width: 100%;
+    padding-inline-end: 0;
+  }
+
+  @include breakpoint($x-large) {
+    width: 100%;
+    padding-inline-end: 0;
+  }
+}
