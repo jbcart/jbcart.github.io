@@ -17,7 +17,9 @@ Duke University from June 2025 to February 2026. My dissertation research was
 named a finalist for the ISBA Leonard J. Savage Award.
 
 I am currently preparing applications for Assistant Professor positions. My
-research interests include Bayesian statistics, latent variable and choice
-modeling, and the integration of statistical inference with optimization for
-decision-making in the social and data sciences. See
+research interests include spatial statistics for discrete data,
+identifiability and partial identifiability in latent-variable models, and
+adapting machine learning concepts to statistical inference, with
+applications spanning sociology, ecology, and the interface between
+statistical inference and tractable optimization. See
 [Research](/research/) for more.
