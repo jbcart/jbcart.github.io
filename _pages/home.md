@@ -14,7 +14,7 @@ unseen in assortment planning literature where simplistic consumer choice
 models are generally preferred, balances answering the the questions business
 cares about most -- what is the impact of added or removing items to my
 assortment? -- and fast optimization that allows for quick iteration of
-strategies for assortment recommendation..
+strategies for assortment planning.
 
 My broad strengths are in applied statistical modeling, with deep expertise in
 **discrete outcome models**, the models behind consumer choice and survey data,
