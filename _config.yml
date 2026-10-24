@@ -21,7 +21,7 @@ title                    : "Brandon Carter"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "J. Brandon Carter"
-description              : "Personal website of J. Brandon Carter, statistician and data scientist working on consumer choice modeling and optimization."
+description              : "Personal website of J. Brandon Carter, data scientist specializing in discrete and consumer choice modeling and assortment optimization."
 url                      : "https://jbcart.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "J. Brandon Carter"
   avatar           : "/assets/images/IMG_0744.jpeg"
-  bio              : "Data Scientist and Statistician"
+  bio              : "Applied Bayesian Data Scientist"
   affiliation      : "The Hershey Company"
   location         : "Dallas, TX"
   email            : "carterj4@icloud.com"

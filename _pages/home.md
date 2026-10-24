@@ -3,27 +3,41 @@ permalink: /
 title: "About"
 ---
 
-I am a Data Scientist at The Hershey Company, where I work on assortment
-optimization for retail category planning. My work sits at the intersection of
-statistical inference and operations research: I build consumer choice models
-that capture how customers assemble individual shopping baskets, and pair them
-with tractable optimization procedures that turn those models into actionable
-assortment decisions.
+I am a data scientist who jumps into complex, unfamiliar problems and moves
+them forward. In research that has meant novel methodology; in business it
+means pragmatic solutions that get a decision made. Most recently, at The
+Hershey Company, I own the counterfactual prediction behind a production
+assortment planning application, which combines rich consumer choice models of
+how shoppers assemble their baskets and store-by-week-by-item point of sale
+data with a tractable optimization. This combination of methodology, previously
+unseen in assortment planning literature where simplistic consumer choice
+models are generally preferred, balances answering the the questions business
+cares about most -- what is the impact of added or removing items to my
+assortment? -- and fast optimization that allows for quick iteration of
+strategies for assortment recommendation..
+
+My broad strengths are in applied statistical modeling, with deep expertise in
+**discrete outcome models**, the models behind consumer choice and survey data,
+and spatial statistics, models where observations are associated with
+locations. I work best alongside the people who make the decisions, and I
+bring:
+
+- **Communication with business stakeholders.** I explain technical detail at
+  the level the decision needs, in the terms of the decision being made.
+- **Alignment on the real question.** I start by learning how stakeholders
+  decide, so the analysis answers the question the business actually has.
+- **Honesty about what the data can and cannot answer.** When a decision has to
+  be made anyway, I lay out what the evidence supports, where the uncertainty
+  is, and a pragmatic way forward.
+- **Direction set by consensus.** I have redirected project priorities by
+  building agreement across data science, business stakeholders, and product.
 
 I completed my Ph.D. in Statistics and Data Sciences at the University of
-Texas at Austin, advised by Catherine Calder, and was subsequently awarded an
-NSF Mathematical Sciences Postdoctoral Research Fellowship, which I held at
-Duke University from June 2025 to February 2026. My dissertation was a
-finalist for the 2025 ISBA Leonard J. Savage Award in the Applied
-Methodology category.
-
-I am currently preparing applications for Assistant Professor positions. My
-research interests include spatial statistics for discrete data,
-identifiability and partial identifiability in latent-variable models, and
-adapting machine learning concepts to statistical inference, with
-applications spanning sociology, ecology, and the interface between
-statistical inference and tractable optimization. See
-[Research](/research/) for more.
+Texas at Austin and held an NSF Mathematical Sciences Postdoctoral Research
+Fellowship at Duke University. My dissertation was a finalist for the 2025 ISBA
+Leonard J. Savage Award in the Applied Methodology category. I am looking for
+industry data science roles where careful modeling meets real business
+decisions. See [Research](/research/) for the methodological side of my work.
 
 ## Updates
 
