@@ -7,8 +7,8 @@ I am a data scientist who takes on complex, unfamiliar problems and moves them
 forward. In research, that has meant new methodology; in business, it means
 pragmatic solutions that get a decision made. At The Hershey Company, I own the
 counterfactual predictions behind a production assortment planning
-application. It pairs rich consumer choice models of how shoppers assemble
-their baskets, fit to store-by-week-by-item point-of-sale data, with a
+application. It combines rich consumer choice models of how shoppers assemble
+their baskets and store-by-week-by-item point-of-sale revenue prediction models, with a
 tractable optimization. The assortment planning literature generally favors
 simple choice models, so this combination is new. It answers the question the
 business cares about most (what happens if I add or remove items?) while
